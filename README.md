@@ -1,5 +1,9 @@
 # Clojure Koans
 
+__Note__: This repo contains all the answers! If you want to obtain enlightenment in
+the correct way, please use [the original repo](https://github.com/functional-koans/clojure-koans)
+instead.
+
 The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
